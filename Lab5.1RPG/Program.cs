@@ -6,6 +6,7 @@ namespace Lab5._1RPG
 
     class GameCharacter
     {
+
         private string name;
         private int strength;
         private int intelligence;

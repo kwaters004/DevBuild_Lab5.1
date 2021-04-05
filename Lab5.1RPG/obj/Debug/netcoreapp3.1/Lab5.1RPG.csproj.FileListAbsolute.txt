@@ -1,0 +1,13 @@
+C:\Users\kwaters\dev\Lab5.1RPG\Lab5.1RPG\bin\Debug\netcoreapp3.1\Lab5.1RPG.exe
+C:\Users\kwaters\dev\Lab5.1RPG\Lab5.1RPG\bin\Debug\netcoreapp3.1\Lab5.1RPG.deps.json
+C:\Users\kwaters\dev\Lab5.1RPG\Lab5.1RPG\bin\Debug\netcoreapp3.1\Lab5.1RPG.runtimeconfig.json
+C:\Users\kwaters\dev\Lab5.1RPG\Lab5.1RPG\bin\Debug\netcoreapp3.1\Lab5.1RPG.runtimeconfig.dev.json
+C:\Users\kwaters\dev\Lab5.1RPG\Lab5.1RPG\bin\Debug\netcoreapp3.1\Lab5.1RPG.dll
+C:\Users\kwaters\dev\Lab5.1RPG\Lab5.1RPG\bin\Debug\netcoreapp3.1\Lab5.1RPG.pdb
+C:\Users\kwaters\dev\Lab5.1RPG\Lab5.1RPG\obj\Debug\netcoreapp3.1\Lab5.1RPG.csprojAssemblyReference.cache
+C:\Users\kwaters\dev\Lab5.1RPG\Lab5.1RPG\obj\Debug\netcoreapp3.1\Lab5.1RPG.AssemblyInfoInputs.cache
+C:\Users\kwaters\dev\Lab5.1RPG\Lab5.1RPG\obj\Debug\netcoreapp3.1\Lab5.1RPG.AssemblyInfo.cs
+C:\Users\kwaters\dev\Lab5.1RPG\Lab5.1RPG\obj\Debug\netcoreapp3.1\Lab5.1RPG.csproj.CoreCompileInputs.cache
+C:\Users\kwaters\dev\Lab5.1RPG\Lab5.1RPG\obj\Debug\netcoreapp3.1\Lab5.1RPG.dll
+C:\Users\kwaters\dev\Lab5.1RPG\Lab5.1RPG\obj\Debug\netcoreapp3.1\Lab5.1RPG.pdb
+C:\Users\kwaters\dev\Lab5.1RPG\Lab5.1RPG\obj\Debug\netcoreapp3.1\Lab5.1RPG.genruntimeconfig.cache

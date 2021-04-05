@@ -94,7 +94,14 @@ namespace Lab5._1RPG
 
         public override void Play()
         {
-            Console.WriteLine($"{Name} the Wizard (int {Intelligence}, strength {Strength}, magic {MagicalEnergy}) {SpellNumber} spells");
+            if (spellNumber == 1)
+            {
+                Console.WriteLine($"{Name} the Wizard (int {Intelligence}, strength {Strength}, magic {MagicalEnergy}) {SpellNumber} spell");
+            }
+            else
+            {
+                Console.WriteLine($"{Name} the Wizard (int {Intelligence}, strength {Strength}, magic {MagicalEnergy}) {SpellNumber} spells");
+            }
         }
 
         public int SpellNumber
